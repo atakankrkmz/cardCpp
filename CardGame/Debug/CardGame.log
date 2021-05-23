@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\korkm\source\repos\CppProjects\CardGame\main.cpp(75): warning C4715: 'isGameOver': not all control paths return a value
+  CardGame.vcxproj -> C:\Users\korkm\source\repos\CppProjects\Debug\CardGame.exe
